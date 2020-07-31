@@ -5,7 +5,7 @@ Our project for CS 101 course. We made Monopoly board game using Codeblocks IDE 
 
 2014 CS Project Team ID 419
 
-Avineil Jain - 14D170002 (Group Leader)
+Avineil Jain - 14D170002
 Sharnam Shah - 14D110001
 Rajas Pawar - 140070012
 Kamini SuryaMohan Reddy - 140010049 
