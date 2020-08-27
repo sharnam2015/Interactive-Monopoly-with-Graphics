@@ -1,5 +1,6 @@
 # CS-101-Project---Group-419
 Our project for CS 101 course. We made Monopoly board game using Codeblocks IDE and simplecpp graphics library.
+This course was taught by Prof. Kavi Arya at IITB
 
 *This file gives the general information about our project*
 
